@@ -1,6 +1,6 @@
 # A Simple ToDo App
 
-[Link to project](https://duckduckgo.com)
+[Link to project](simple-todos-app.netlify.app)
 
 ---
 
