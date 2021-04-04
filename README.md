@@ -1,6 +1,6 @@
 # A Simple ToDo App
 
-[Link to project](simple-todos-app.netlify.app)
+[Link to project](https://simple-todos-app.netlify.app)
 
 ---
 
